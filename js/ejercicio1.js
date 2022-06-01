@@ -2,7 +2,7 @@
 
 let month = ['Enero','Febrero','Marzo', 'Abril', 'Mayo','Junio','Julio','Agosto', 'Septiembre','Octubre','Noviembre','Diciembre' ];
 
-document.write('<h2>Lista de Meses</h2>');
+document.write('<h1>Lista de Meses</h1>');
 document.write('<ul>');
 for(let i=0; i < month.length; i++){
     document.write(`<li>${month[i]}</li>`)
