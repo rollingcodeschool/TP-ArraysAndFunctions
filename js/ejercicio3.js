@@ -32,7 +32,7 @@ for (i = 0; i < muestraSinDuplicados.length; i++) {
 document.write(`<table>
 <thead>
     <tr>
-        <th>Sumas de los dados</th>
+        <th>Sumas de los dados 🎲🎲</th>
         <th>Cantidad de repeticiones</th>
     </tr>
 </thead>
